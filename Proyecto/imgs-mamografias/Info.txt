@@ -100,16 +100,14 @@ NOTES
    been omitted.
 
 =================================================================
-
 mdb001 G CIRC B 535 425 197
 mdb005 F CIRC B 477 133 30
 mdb023 G CIRC M 538 681 29
 mdb028 F CIRC M 338 314 56
 mdb081 G ASYM B 492 473 131
-mdb090 G ASYM M 510 547 49 
+mdb090 G ASYM M 510 547 49
 mdb115 G ARCH M 461 532 117
 mdb134 F MISC M 469 728 49
 mdb184 F SPIC M 352 624 114
-mdb206 F SPIC M 368 200 17
-mdb314 F MISC B 518 191 39
+mdb314 F MISC B 518 514 39
 =================================================================
